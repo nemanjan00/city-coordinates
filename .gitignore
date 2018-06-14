@@ -1,0 +1,9 @@
+# Node modules
+
+/node_modules
+/yarn-error.log
+
+# Tern
+
+/.tern-port
+

@@ -1,0 +1,9 @@
+{
+  "name": "city-coordinates",
+  "version": "0.0.0",
+  "description": "Tool for grabbing city coordinates",
+  "main": "index.js",
+  "repository": "https://github.com/nemanjan00/city-coordinates",
+  "author": "nemanjan00 <nemanjan00@gmail.com>",
+  "license": "MIT"
+}
