@@ -5,5 +5,8 @@
   "main": "index.js",
   "repository": "https://github.com/nemanjan00/city-coordinates",
   "author": "nemanjan00 <nemanjan00@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.87.0"
+  }
 }
