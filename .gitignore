@@ -7,3 +7,7 @@
 
 /.tern-port
 
+# start file with token
+
+/start.sh
+
